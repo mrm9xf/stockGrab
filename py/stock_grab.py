@@ -1,6 +1,7 @@
 import os
 import urllib2
 import pandas as pd
+from time import sleep
 from datetime import datetime
 from pyquery import PyQuery as pq
 
